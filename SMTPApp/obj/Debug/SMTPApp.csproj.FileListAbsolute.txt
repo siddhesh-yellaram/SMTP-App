@@ -1,0 +1,7 @@
+D:\test\Web API\SMTPApp\bin\Debug\SMTPApp.exe.config
+D:\test\Web API\SMTPApp\bin\Debug\SMTPApp.exe
+D:\test\Web API\SMTPApp\bin\Debug\SMTPApp.pdb
+D:\test\Web API\SMTPApp\obj\Debug\SMTPApp.csproj.AssemblyReference.cache
+D:\test\Web API\SMTPApp\obj\Debug\SMTPApp.csproj.CoreCompileInputs.cache
+D:\test\Web API\SMTPApp\obj\Debug\SMTPApp.exe
+D:\test\Web API\SMTPApp\obj\Debug\SMTPApp.pdb
